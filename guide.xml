@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TC Action">
+    <display-name lang="es">TCAction</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Action HD">
+    <display-name lang="es">TC Action HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Cult">
+    <display-name lang="es">TC Cult</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Fun">
+    <display-name lang="es">TC Fun</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Fun HD">
+    <display-name lang="es">TC Fun HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Pipoca">
+    <display-name lang="es">TC Pipoca</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Pipoca HD">
+    <display-name lang="es">TC Pipoca HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Premium">
+    <display-name lang="es">TC Premium</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Premium HD">
+    <display-name lang="es">TC Premium HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Touch">
+    <display-name lang="es">TC Touch</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC Touch HD">
+    <display-name lang="es">TC Touch HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+</tv>
